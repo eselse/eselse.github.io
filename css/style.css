@@ -524,7 +524,7 @@ a {
     }
 }
 form button {
-    border-color: var(--primaryColor);
+    border: none;
 }
 /* end of contact */
 /* footer */
