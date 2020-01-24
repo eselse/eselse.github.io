@@ -523,6 +523,9 @@ a {
         padding-top: 4rem;
     }
 }
+form button {
+    border-color: var(--primaryColor);
+}
 /* end of contact */
 /* footer */
 .footer {
